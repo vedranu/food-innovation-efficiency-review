@@ -1,0 +1,5 @@
+Endpoint: https://api.openalex.org/works
+Filter: title_and_abstract.search:<QUERY>,publication_year:2015-2026,type:article|review,language:en
+QUERY:
+("food industry" OR "food processing" OR "food manufacturing" OR "food sector" OR "agri-food" OR "agrifood" OR "food supply chain" OR "food company" OR "food companies" OR "food firms" OR "food processors") AND (automation OR robotics OR robot OR "artificial intelligence" OR "machine learning" OR "digital twin" OR blockchain OR "internet of things" OR "industry 4.0" OR "digital transformation" OR digitalization OR digitalisation OR "cold plasma" OR "high pressure processing" OR "pulsed electric field" OR "additive manufacturing" OR "3D printing" OR "circular economy" OR valorisation OR valorization) AND ("economic efficiency" OR productivity OR "total factor productivity" OR "cost reduction" OR "cost savings" OR "return on investment" OR profitability OR "financial performance" OR "firm performance" OR "economic performance" OR "cost-benefit" OR "economic feasibility" OR "techno-economic" OR "operational efficiency")
+Search date: 3 October 2026. Records: 1,310.

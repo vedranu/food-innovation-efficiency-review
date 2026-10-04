@@ -1,0 +1,248 @@
+id,metric,value,unit,computed,use_in_summary,verbatim,context
+W4408287496,waste_loss_reduction_pct,50.0,%,0,1,reduction of 40–60 % in waste disposal,achievable waste disposal reduction via 3D printing
+W4408287496,throughput_productivity_increase_pct,30.0,%,0,1,improve efficiency by up to 30 %,process efficiency from optimized printing parameters
+W4408287496,cost_reduction_pct,25.0,%,0,1,25 % savings in waste management costs,waste management cost savings for food manufacturers
+W4386147995,other,94.0,%,0,0,service level of 94 %,service level achieved with integrated PPDs
+W4386147995,other,65.0,%,0,0,65 % utilization of the pasteurizer and aging vessel,pasteurizer and aging vessel utilization
+W4386147995,other,97.0,%,0,0,97 % utilization of the freezer,freezer utilization
+W4386147995,other,6.0,%,0,0,6 % reduction in backlog,backlog reduction with digital twin model
+W7110976642,other,435.5,EUR/kg,0,0,€435.5 per kilogram,average minimum product selling price of bio-based vitrimers
+W7110976642,cost_reduction_pct,60.0,%,0,1,potential reductions of 60% in best-case scenarios,MPSP reduction in best-case scenario
+W7110976642,other,400.0,%,0,0,increases of up to 400% in worst-case conditions,MPSP increase in worst-case scenario
+W4400877729,profit_revenue_increase_pct,12.5,%,0,1,boost income by 10 to 15%,income increase from IoT dynamic scheduling
+W4400877729,profit_revenue_increase_pct,15.5,%,0,1,profit by 13 to 18%,profit increase from IoT dynamic scheduling
+W4400877729,throughput_productivity_increase_pct,13.0,%,0,1,job shop-level productivity by 13%,job shop-level productivity increase
+W7128805573,time_reduction_pct,24.4,%,0,1,24.4% reduction in production time,production time reduction with hybrid digital twin
+W7128805573,energy_utility_reduction_pct,23.0,%,0,1,23% energy savings,energy savings with hybrid digital twin
+W7128805573,other,100.0,%,1,0,complete elimination of quality time-window violations (0.0% vs. 13.3% baseline,quality time-window violations reduced from 13.3% to 0%
+W7128805573,payback_years,0.2,years (converted from months),0,1,2.4-month return on investment,payback (return on investment) period
+W4406282609,other,52.42,%,0,0,52.42% reduction in CO 2 emissions,CO2 emission reduction with bi-layered ANN forecasting
+W4401029634,other,28.0,hours/year,0,0,annual gain of 28 hours,annual time gain from RPA automation
+W3033908526,yield_recovery_increase_pct,10.7,%,0,1,enhance the biomethane production by 10.7%,biomethane increase from CW/HH co-digestion
+W3033908526,other,3929.0,EUR/ha,0,0,net profits of up to 3929 €·ha−1,net profit from hemp hurds biomethane
+W3033908526,other,6124.0,EUR/ha,0,0,rise to 6124 €·ha−1,net profit with co-digestion with cheese whey
+W4402991319,throughput_productivity_increase_pct,31.2,%,0,1,increased throughput by 31.2% in large-scale production,"throughput increase, robotic automation, large-scale production"
+W4402991319,throughput_productivity_increase_pct,12.0,%,0,1,12.0% in order-based production,"throughput increase, robotic automation, order-based production"
+W7128526990,other,35.0,%,0,0,35% lower carbon footprint,carbon footprint vs conventional pine pellets
+W7128526990,other,162.4,USD/t,0,0,production cost of 162.4 USD·t⁻¹,pellet production cost
+W4414723338,energy_utility_reduction_pct,62.0,%,0,1,reduces steam consumption by 62%,steam consumption reduction with pre-heating start-up
+W4414723338,time_reduction_pct,63.0,%,0,1,start-up time by 63%,start-up time reduction with pre-heating
+W4405107066,throughput_productivity_increase_pct,83.7,%,0,1,increased throughput by 83.7% in simpler processes,"throughput increase, robotic tray transport, simpler processes"
+W4405107066,throughput_productivity_increase_pct,27.1,%,0,1,27.1% in more complex ones,"throughput increase, robotic tray transport, complex processes"
+W7134058637,irr_pct,2.0,%,0,1,internal rate of return (IRR) of only 2%,IRR of cutin-only extraction model
+W7134058637,other,400.0,%,1,0,five times lower than the IRR achieved in our integrated model,integrated model IRR five times cutin-only IRR
+W7134058637,payback_years,5.7,years,0,1,from 9.56 to 5.7 years,payback of integrated approach (vs 9.56 years)
+W7134058637,other,40.38,%,1,0,from 9.56 to 5.7 years,"payback time reduction, integrated vs cutin-only"
+W4312213526,other,9.7,%,0,0,increase agrifood exports by 9.7 per cent,export increase per SD e-trade facilitation (exporter)
+W4312213526,other,1.3,%,0,0,"1.3 per cent, respectively",export increase per SD NTM digitalization (importer)
+W7116952487,waste_loss_reduction_pct,15.0,%,0,1,reduce food waste by ~15%,estimated food waste reduction across supply chain
+W4361286242,other,-19.58,%,0,0,net margin of −19.58%,"net margin, biomethane recovery scenario"
+W4361286242,irr_pct,-1.77,%,0,1,internal rate of return of −1.77%,"IRR, biomethane recovery scenario"
+W4361286242,other,33.03,%,0,0,net margin of 33.03%,"net margin, combined heat and power scenario"
+W4361286242,irr_pct,13.14,%,0,1,internal rate of return of 13.14%,"IRR, combined heat and power scenario"
+W4361286242,payback_years,5.03,years,0,1,payback of 5.03 years,"payback, combined heat and power scenario"
+W4411978829,cost_reduction_pct,90.0,%,0,1,reduced medium costs by up to 90%,culture medium cost reduction with waste bread
+W4411978829,yield_recovery_increase_pct,1400.0,%,1,1,enhanced 15-fold,amylase production increase via factorial design
+W4411624902,energy_utility_reduction_pct,20.0,%,0,1,electricity consumption by up to 20%,electricity reduction PEF vs HTST
+W4411624902,energy_utility_reduction_pct,60.0,%,0,1,fuel gas usage by over 60%,fuel gas reduction PEF vs HTST
+W4411624902,other,30.0,%,0,0,greenhouse gas emissions by approximately 30%,GHG emission reduction PEF vs HTST
+W4411624902,energy_utility_reduction_pct,25.0,%,0,1,water consumption by 25%,water consumption reduction PEF vs HTST
+W3043874093,throughput_productivity_increase_pct,98.84,%,1,1,increasing productivity from 5.18 g/L/h to 10.3 g/L/h,productivity increase CaptureSMB vs batch adsorption
+W3043874093,other,92.0,%,0,0,A 92% RU can be accomplished,resin capacity utilization with CaptureSMB
+W7127622360,other,65.0,%,0,0,reduces the climate change impact by 65% and 48%,climate impact reduction vs commercial CO2
+W7127622360,other,48.0,%,0,0,reduces the climate change impact by 65% and 48%,climate impact reduction vs H2SO4
+W7127622360,other,78.0,%,0,0,at least 78% lower than the worst-case scenario,environmental impact vs worst-case scenario
+W7127622360,cost_reduction_pct,40.0,%,0,1,40% cost reduction compared to commercial CO 2,cost reduction of circular CCU vs commercial CO2
+W4225158350,throughput_productivity_increase_pct,900.0,%,1,1,"processed and froze 150 kg of fish per worker per day. Today, factories can process and freeze significantly beyond 1,500 kg per person per day","fish processed per worker per day, 1990s vs today"
+W4225158350,yield_recovery_increase_pct,33.33,%,1,1,improved from around 60% to 80%,fish yield and utilization in automated factories
+W7154593733,waste_loss_reduction_pct,7.4,%,0,1,reduce waste generation by 4.8–10%,waste reduction with sustainability-integrated inventory policies
+W7154593733,other,4.6,%,0,0,Environmental costs account for 4.6% of total operating expenses,environmental cost share of operating expenses
+W3111593252,other,0.89,EUR/A4 sheet,0,0,cost around 0.89 €/A4 sheet,estimated cost of antimicrobial coating
+W7140103510,waste_loss_reduction_pct,83.33,%,1,1,adhesion (42%→7%),adhesion defects robotic vs manual frying
+W7140103510,waste_loss_reduction_pct,92.86,%,1,1,fracture (28%→2%),fracture defects robotic vs manual frying
+W7140103510,waste_loss_reduction_pct,100.0,%,1,1,slippage (9%→0%),slippage robotic vs manual frying
+W7140103510,throughput_productivity_increase_pct,215.0,%,1,1,approximately 3.15 times higher throughput,dual-slot vs single-slot throughput
+W4415752625,other,1.0,USD/kg,0,0,low-cost (∼1 USD/kg),pig bone biochar production cost
+W4415752625,other,1.56,ratio,0,0,social return on investment (SROI = 1.56),social return on investment
+W7146947658,yield_recovery_increase_pct,12.0,%,0,1,10%−14% increase in food resource recovery efficiency,food resource recovery efficiency increase
+W7146947658,cost_reduction_pct,8.0,%,0,1,7%−9% cost reduction,cost reduction with AI reintegration framework
+W4378894806,profit_revenue_increase_pct,267.24,%,1,1,"The profit for the biogas plant operating in Option I was estimated at PLN 628,360, and in Option II it was PLN 2,307,600",profit increase waste-fed vs maize silage biogas plant
+W4378894806,other,628360.0,PLN,0,0,"PLN 628,360","profit, traditional maize silage biogas plant"
+W4378894806,other,2307600.0,PLN,0,0,"PLN 2,307,600","profit, waste-fed biogas plant"
+W4415267829,profit_revenue_increase_pct,33.6,%,0,1,33.6% profit increase,profit increase vs decentralized decision-making
+W4415267829,other,14.16,million CNY,0,0,14.16 million yuan,overall system profitability with blockchain
+W4415267829,other,8.17,million CNY,0,0,8.17 million yuan,blockchain application cost threshold
+W4392799728,other,0.76,EUR/500 g,0,0,"€1.16, €0.82, €0.62, €0.41, and €0.36 for 500 g",consumer WTP premiums for blockchain/QR-labelled pasta attributes
+W4412092594,energy_utility_reduction_pct,18.0,%,0,1,18% reduction in energy consumption,energy reduction N-C-N vs IEM-only configuration
+W4412092594,cost_reduction_pct,53.0,%,0,1,53% reduction in overall capital and operating costs,capital and operating cost reduction vs IEM redox-ED
+W7139093169,yield_recovery_increase_pct,64.82,%,1,1,increased from 39.8% to a maximum of 65.6%,hydrocarbon yield increase corn stover/PP co-pyrolysis
+W7139093169,other,1835.0,RMB/day,0,0,net daily profit of 1835 RMB,"net daily profit, natural gas-assisted co-pyrolysis"
+W7139093169,other,6515.0,t CO2/year,0,0,reducing annual CO2 emissions by 6515 tons,annual CO2 emission reduction
+W7154938093,energy_utility_reduction_pct,29.0,%,0,1,29% decrease in energy consumption,energy consumption decrease post-implementation
+W7154938093,waste_loss_reduction_pct,55.0,%,0,1,55% reduction in cold-chain losses,cold-chain loss reduction post-implementation
+W4366828985,yield_recovery_increase_pct,33.0,%,0,1,approximately 33% and 23% enhancements,polyphenol concentration increase MAE vs UAE
+W4366828985,other,23.0,%,0,0,approximately 33% and 23% enhancements,antioxidant activity increase MAE vs UAE
+W4366828985,time_reduction_pct,83.33,%,1,1,reduce extraction duration (by a factor up to 6),extraction duration reduction MAE vs UAE
+W4366828985,energy_utility_reduction_pct,72.22,%,1,1,reducing the energy consumption (up to 3.6 fold),energy consumption reduction UAE vs MAE
+W4366828985,other,12.0,%,0,0,up to 12% for climate change,climate change impact reduction UAE vs MAE
+W4415566566,other,1.11,EUR/L,0,0,unit production costs ranging from 1.09 €/L to 1.13 €/L,unit production cost of apple juice
+W4415566566,irr_pct,36.4,%,0,1,36.4% and 6.7 years for the on-site ethanol production process,"IRR, on-site ethanol production"
+W4415566566,payback_years,6.7,years,0,1,36.4% and 6.7 years for the on-site ethanol production process,"discounted payback, on-site ethanol production"
+W4415566566,irr_pct,37.8,%,0,1,37.8% and 6.4 years for the process with purchased ethanol,"IRR, purchased ethanol"
+W4415566566,payback_years,6.4,years,0,1,37.8% and 6.4 years for the process with purchased ethanol,"discounted payback, purchased ethanol"
+W4415722508,energy_utility_reduction_pct,13.5,%,0,1,reduced fuel consumption by 12–15%,fuel consumption reduction from AI interventions
+W4415722508,other,1000.0,tCO2/year,0,0,annual avoided emissions between 500 and 1500 tCO2,annual avoided emissions from AI interventions
+W4407293890,other,5.0,ratio,0,0,electricity cost needs to be less than 5 times higher than the biofuel cost,electricity/biofuel cost ratio threshold for heat recovery viability
+W4417449301,waste_loss_reduction_pct,34.2,%,0,1,reduces waste by 34.2%,waste reduction with Bi-GRU/HMSR framework
+W4417449301,other,28.7,%,0,0,maximizes profit margins at 28.7%,profit margin achieved by framework
+W7140205267,other,227.82,USD/ha,0,0,$227.82/ha from methane recovery,revenue from methane recovery
+W7140205267,other,50707.35,USD/ha,0,0,"$50,707.35/ha from farmyard manure production",revenue from farmyard manure production
+W7140205267,roi_pct,785.23,%,0,1,return on investment of 785.23%,ROI of community-based waste valorisation
+W7140205267,payback_years,0.708,years (converted from months),0,1,payback period of 8.5 months,payback of community-based waste valorisation
+W7125515485,cost_reduction_pct,7.4,%,0,1,comparative cost advantage of 7.4% over glucose,whey-based vs glucose-based L-threonine production cost
+W7125515485,other,20.55,USD/kg,0,0,20.55 USD/kg vs. 22.20 USD/kg,whey-based L-threonine production cost at pilot scale
+W7131803230,energy_utility_reduction_pct,36.5,%,0,1,by 30% (43%),bakery oven energy reduction nightshift (dayshift)
+W7131803230,time_reduction_pct,49.0,%,0,1,total runtime by 43% (55%),bakery oven runtime reduction nightshift (dayshift)
+W7131803230,cost_reduction_pct,7.0,%,0,1,cost savings of up to 7%,rolling mill cost savings via price-aligned scheduling
+W7131803230,other,40.0,%,0,0,nearly 40% of original energy consumption,weekly load-shifting potential
+W4313361031,other,19.0,kg,0,0,total reduction of 19 kg of food waste within 17 weeks,food waste reduced in 17-week pilot
+W4313361031,other,0.56,EUR/product,0,0,net revenue of sold upcycled products between EUR 0.42 and 0.70,net revenue per upcycled product
+W7125640562,waste_loss_reduction_pct,35.0,%,0,1,spoilage was reduced by more than 35%,food supply chain spoilage reduction
+W7125640562,other,7.0,%,0,0,service levels improved by over 7%,food supply chain service level improvement
+W7125640562,cost_reduction_pct,9.0,%,0,1,total costs declined by nearly 9%,food supply chain total cost reduction
+W7125640562,waste_loss_reduction_pct,60.0,%,0,1,spoilage was reduced by over 60%,pharmaceutical cold chain spoilage reduction
+W7125640562,time_reduction_pct,37.0,%,0,1,recovery from disruptions was 37% faster,pharmaceutical cold chain disruption recovery
+W7125640562,cost_reduction_pct,12.0,%,0,1,costs reduced by about 12%,pharmaceutical cold chain cost reduction
+W7134163875,roi_pct,40.0,%,0,1,return on investment values exceeding 40%,ROI of chitin oligomer biorefinery
+W7134163875,other,20.0,million USD,0,0,Net Present Values approaching US$20 million,NPV of chitin oligomer biorefinery
+W7151864794,other,1.5,kWh/kg H2O,0,0,∼1–2 kWh·kg<sup>−1</sup> H<sub>2</sub>O removed,specific energy consumption of advanced dryers
+W7151864794,energy_utility_reduction_pct,40.0,%,0,1,roughly 30–50% reductions relative to conventional hot-air baselines,energy reduction vs hot-air drying
+W7151864794,time_reduction_pct,70.0,%,0,1,shortening drying times by up to ∼70%,drying time reduction
+W7151864794,other,0.5,kg CO2-eq/kg,0,0,∼0.4–0.6 kg CO<sub>2</sub>-eq·kg<sup>−1</sup> dried product,drying-stage carbon intensity with low-carbon energy
+W7151864794,payback_years,5.0,years,0,1,payback periods below ∼5 years,payback of heat-pump and mixed dryers
+W7168258437,other,3.64,g CO2-eq/MJ,0,0,3.64 g CO₂-eq·MJ⁻¹,global warming impact of optimized pellet
+W7168258437,irr_pct,25.0,%,0,1,internal rates of return above 25%,IRR of hybrid pellet production
+W7168258437,payback_years,4.0,years,0,1,payback periods below 4 years,payback of hybrid pellet production
+W4408815942,waste_loss_reduction_pct,60.0,%,0,1,reducing waste volume by 60 %,waste volume reduction via anaerobic digestion
+W4408815942,other,5.0,MW,0,0,up to 5 MW of renewable energy,renewable energy generated by anaerobic digestion
+W4408815942,roi_pct,13.5,%,0,1,return on investment (ROI) of 12–15 %,ROI of medium-scale anaerobic digestion
+W4408815942,payback_years,6.0,years,0,1,payback period of 5–7 years,payback of medium-scale anaerobic digestion
+W4408815942,other,0.8,kg CO2eq/kg food waste,0,0,0.8 kg CO<sub>2eq</sub> per kg of food waste,GHG reduction vs landfilling
+W2519629066,other,66.53,USD/kg,0,0,in the range of 122–11.06 $/kg,minimum selling price of antioxidant extract by capacity
+W3138895040,other,4.62,kg CO2 eq/kg,0,0,4.62 kg CO<sub>2</sub> eq,life cycle climate impact per kg lactic acid
+W3138895040,other,2.9,USD/kg,0,0,product cost of LA was USD 2.9/kg,lactic acid product cost
+W3138895040,payback_years,6.0,years,0,1,payback time of 6 years,payback at selling price USD 3.21/kg
+W3138895040,other,1.42,USD/kg,0,0,product cost to USD 1.42/kg,potential lactic acid product cost after improvements
+W3138895040,other,2.29,kg CO2 eq/kg,0,0,2.29 kg CO<sub>2</sub> eq,potential climate impact after improvements
+W4389396899,cost_reduction_pct,80.0,%,0,1,emission costs are reduced by 80%,farmer and processor emission cost reduction
+W4389396899,cost_reduction_pct,95.0,%,0,1,reduced by more than 95%,fish waste and plastic waste minimization cost reduction
+W4388751973,yield_recovery_increase_pct,94.61,%,1,1,higher methane yield from the FW slurry fraction (572.88 mL/gVS<sub>FW</sub>) compared to the whole FW (294.37 mL/gVS<sub>FW</sub>),methane yield slurry fraction vs whole food waste
+W4388751973,energy_utility_reduction_pct,73.68,%,1,1,stand-alone Py and ADCo-INC needed 3.8 and 2.8 times more energy than ADCo-Py,ADCo-Py energy need vs stand-alone pyrolysis
+W4388751973,energy_utility_reduction_pct,64.29,%,1,1,stand-alone Py and ADCo-INC needed 3.8 and 2.8 times more energy than ADCo-Py,ADCo-Py energy need vs AD with incineration
+W4388751973,other,15.0,million USD,0,0,net present value (NPV) of $15 million,NPV of ADCo-Py
+W4388751973,irr_pct,34.0,%,0,1,internal rate of return (IRR) of 34 %,IRR of ADCo-Py
+W4361278261,other,3141867.6,USD/year,0,0,US$ 3141867.6 year<sup>−1</sup> of net profit,after-tax annual net profit of food waste biorefinery
+W4361278261,payback_years,3.5,years,0,1,payback period (PBP) was 3.5 years,payback at 7% discount rate
+W4361278261,irr_pct,45.54,%,0,1,45.54% and 43.88%,IRR of food waste biorefinery
+W4361278261,roi_pct,43.88,%,0,1,45.54% and 43.88%,ROI of food waste biorefinery
+W2768608143,roi_pct,83.0,%,0,1,accounting rate of return of 83%,"accounting rate of return, mango seed starch"
+W2768608143,other,78.0,%,0,0,break-even analysis of 78%,"break-even point, mango seed starch"
+W2768608143,payback_years,2.0,years,0,1,payback period of 2 years,payback of mango seed starch production
+W2948904885,other,20.0,%,0,0,reduced by 2–38%,environmental impact reduction in winemaking with PEF
+W2948904885,yield_recovery_increase_pct,5.0,%,0,1,average improvement of 5% in the olive extraction yield,olive oil extraction yield improvement with PEF
+W2948904885,other,5.0,%,0,0,reduced the environmental impact indicators approximately 5%,olive oil environmental impact reduction
+W7165865011,throughput_productivity_increase_pct,25.0,%,0,1,OEE improvements of 20–30%,OEE improvement in industrial projects
+W7165865011,energy_utility_reduction_pct,22.5,%,0,1,energy reductions of 20–25%,energy reduction in industrial projects
+W7165865011,other,8.4,billion USD/year,0,0,$8.4 billion per year,projected cost savings at 10% of US facilities
+W2980240952,other,3381000.0,USD,0,0,"net present value of $3,381,000","NPV, stand-alone whey process"
+W2980240952,other,16354000.0,USD,0,0,"$16,354,000 for the stand-alone and attached processes","NPV, process attached to cheese plant"
+W2980240952,other,322338477.0,kg water/year,0,0,"reuse 322,338,477 kg water/year",water recovered from waste streams
+W3207397981,other,3.1,%,0,0,decreases up to 3.1%,GWP reduction OMWW-based bricks
+W3207397981,other,4.3,%,0,0,reduced by 4.3%,abiotic depletion of fossil fuels reduction
+W3207397981,other,7.8,%,0,0,water consumption increases for OMWW-based brick production up to 7.8%,water consumption increase (adverse)
+W3207397981,other,207.0,km,0,0,distance of 207 km,maximum mill-factory distance for economic benefit
+W4413293942,other,2408625.0,USD,0,0,"2408,625 USD",capital investment for antioxidant and bioenergy lines
+W4413293942,payback_years,1.0,years,0,1,< 1 year,payback of antioxidant and bioenergy lines
+W7167235048,other,0.005,USD/unit,0,0,USD 0.0047 per coated unit,baseline coating-production cost
+W7167235048,other,0.007,USD/unit,0,0,USD 0.007 per unit,baseline application-stage cost
+W7167235048,other,0.012,USD/unit,0,0,USD 0.012 per unit,baseline total applied cost
+W4306399824,other,84.99,USD/MWh,0,0,84.99 USD MWh<sup>−1</sup>,TPAD cost of manufacturing electricity
+W4306399824,other,0.019,USD/MJ,0,0,0.019 USD MJ<sup>−1</sup>,TPAD cost of manufacturing heat
+W4306399824,other,30.91,USD/t,0,0,30.91 USD t<sup>−1</sup>,TPAD cost of manufacturing fertilizer
+W4306399824,other,509011.0,USD,0,0,"net present value (509,011 USD)",NPV of TPAD scenario
+W4306399824,payback_years,4.24,years,0,1,lowest payback time (4.24 y),payback of TPAD scenario
+W4417246977,other,33.6,kg CO2 eq/kg oil,0,0,33.6 kg CO₂ eq,global warming impact per kg tomato seed oil
+W4417246977,other,44.8,kg CO2 eq/kg pectin,0,0,44.8 kg CO₂ eq,global warming impact per kg pectin
+W7203687134,roi_pct,14.81,%,0,1,ROI of 14.81%,ROI of PPW fed-batch scenario
+W7203687134,payback_years,6.75,years,0,1,6.75-year payback,payback of PPW fed-batch scenario
+W7203687134,other,914000.0,USD,0,0,"net present value of USD 914,000",NPV of PPW fed-batch at USD 7/kg
+W7160135935,time_reduction_pct,46.555,%,0,1,reduced total drying time by 27.59–65.52%,drying time reduction with cold plasma pretreatment
+W7160135935,other,189.0,%,0,0,enhanced energy efficiency from 2.91% to 8.41% (+189%),energy efficiency increase with cold plasma
+W7160135935,energy_utility_reduction_pct,65.46,%,0,1,decreased specific energy consumption from 80.72 to 27.88 MJ/kg (−65.46%),specific energy consumption reduction
+W7160135935,other,65.45,%,0,0,CO<sub>2</sub> emissions by up to 65.45%,CO2 emission reduction per kg water evaporated
+W7160135935,payback_years,2.95,years,0,1,reduced the payback period from 7.84 years to a range of 1.22 to 4.68 years,payback with cold plasma (vs 7.84 years)
+W3184367809,other,148.0,%,0,0,reduced respectively by 148% and 158%,"climate change impact reduction, production perspective"
+W3184367809,cost_reduction_pct,158.0,%,0,0,reduced respectively by 148% and 158%,"life cycle cost reduction, production perspective"
+W3184367809,other,3.4,%,0,0,by 3.4% and 8% for the consumption perspective,"climate change impact reduction, consumption perspective"
+W3184367809,cost_reduction_pct,8.0,%,0,1,by 3.4% and 8% for the consumption perspective,"life cycle cost reduction, consumption perspective"
+W3184367809,other,209.0,kt CO2 eq/yr,0,0,around 209 kt CO<sub>2</sub> eq./yr,UK annual climate impact reduction
+W3184367809,other,6.7,PJ/yr,0,0,primary energy demand by 6.7 PJ/yr,UK primary energy demand reduction
+W3184367809,profit_revenue_increase_pct,11.0,%,0,1,increasing the value added of cheese by up to 11%,value added of cheese increase
+W7143437806,other,22.5,%,0,0,increase ROI by 19–26%,ROI increase from optimized technology portfolios
+W7143437806,cost_reduction_pct,18.0,%,0,1,reduce unit costs by up to 18%,unit cost reduction
+W7143437806,throughput_productivity_increase_pct,25.0,%,0,1,improve labour productivity by approximately 25%,labour productivity increase
+W7162695130,other,44.95,million USD,0,0,$38.6 M and $51.3 M,NPV for dry and wet extraction
+W7162695130,other,4.61,USD/kg,0,0,4.81 $/kg and 4.41 $/kg,"PHA minimum selling price, dry and wet extraction"
+W4376610475,cost_reduction_pct,56.0,%,0,1,56% for the regression model,"analytical and labour cost reduction, regression model"
+W4376610475,cost_reduction_pct,83.0,%,0,1,83% for the classification model,"analytical and labour cost reduction, classification model"
+W7147494253,cost_reduction_pct,83.0,%,0,1,83% reduction in average downtime-related cost,downtime-related cost reduction with modular digital twin
+W7147494253,time_reduction_pct,42.0,%,0,1,42% reduction in average repair time,repair time reduction with modular digital twin
+W7160877770,other,46.5,%,0,0,annual packaged-flour recovery of 46.5%,pea flour recovery from rejected peas
+W7203606250,cost_reduction_pct,45.4,%,0,1,overall cost savings of 45.4%,logistics cost savings with multimodal routing
+W4413046044,roi_pct,20.9,%,0,1,ROI 20.9 %,"ROI, cannery biowaste only"
+W4413046044,payback_years,4.28,years,0,1,SPP 4.28 yr,"simple payback, cannery biowaste only"
+W4413046044,other,18579.0,EUR,0,0,"NPV €18,579","NPV, cannery biowaste only"
+W4413046044,irr_pct,23.8,%,0,1,IRR 23.8 %,"IRR, cannery biowaste only"
+W4413046044,roi_pct,23.5,%,0,1,ROI 23.5 %,"ROI, with peach biowaste co-treatment"
+W4413046044,payback_years,3.93,years,0,1,SPP 3.93 yr,"simple payback, with peach biowaste co-treatment"
+W4413046044,other,26143.0,EUR,0,0,"NPV €26,143","NPV, with peach biowaste co-treatment"
+W4413046044,irr_pct,26.2,%,0,1,IRR 26.2 %,"IRR, with peach biowaste co-treatment"
+W3049287463,cost_reduction_pct,70.835,%,1,1,ranged between 3-4 times,LAB bioproduction cost decrease vs commercial media
+W3049287463,cost_reduction_pct,98.57,%,1,0,improved more than 70 and 15 times,MPB growth cost improvement vs commercial media
+W3049287463,cost_reduction_pct,93.33,%,1,0,improved more than 70 and 15 times,Gram+ bacteria growth cost improvement vs commercial media
+W4405642734,cost_reduction_pct,17.57,%,0,1,cost savings of 17.57% and 18.65%,energy cost savings with reinforcement learning DR
+W4405642734,cost_reduction_pct,18.65,%,0,1,cost savings of 17.57% and 18.65%,energy cost savings with MILP DR
+W4405892646,cost_reduction_pct,76.32,%,1,0,costing $9/kg compared to $38/kg,injection molding vs 3D printing cost
+W4405892646,other,9.0,USD/kg,0,0,costing $9/kg,injection-molded meat analog cost
+W7125498535,cost_reduction_pct,15.0,%,0,1,reduced energy costs by 12 ÷ 18 %,energy cost reduction with automated monitoring
+W7125498535,cost_reduction_pct,35.0,%,0,1,reduced costs by 30 ÷ 40 %,cost reduction from renewable energy integration
+W7125498535,profit_revenue_increase_pct,11.5,%,0,1,profitability by 8 ÷ 15 %,profitability increase with circular production
+W7117448158,other,4.22,s/piece,0,0,average time saving of 4.22s per piece,wrapping time saving vs manual
+W7125530448,profit_revenue_increase_pct,80.46,%,1,1,"revenue grew from 1,003 million to 1,810 million manats",Azersun revenue growth 2019-2023
+W7125530448,cost_reduction_pct,30.0,%,0,1,reducing energy costs by 30 %,"energy cost reduction, automated cold storage"
+W7125530448,profit_revenue_increase_pct,48.15,%,1,1,"revenue increased from 2,056 million to 3,046 million dollars",MHP revenue growth 2019-2024
+W4402615998,yield_recovery_increase_pct,3.15,%,0,1,3.15% increase in yield,yield increase with Lean/Six Sigma STNN
+W4402615998,other,39.7,kg/batch,0,0,saving 39.7 kg of waste per batch,waste saved per batch
+W4402615998,other,1585.0,USD/batch,0,0,USD 1585 per batch,waste-related loss reduction per batch
+WOS:001787013400012,yield_recovery_increase_pct,15.5,percentage points,0,0,increases bioactive recovery by 13-18 percentage points,"polymer composite membranes vs conventional separation, bioactive recovery"
+WOS:001787013400012,energy_utility_reduction_pct,72.0,%,0,1,reduces AD heat loss by up to 72%,polymer-composite digester construction; up to 72% heat loss reduction
+WOS:001787013400012,other,2.5,x (service life factor),0,0,extends system service life by a factor of 2-3,digester service life extension factor
+WOS:001787013400012,payback_years,11.5,years,0,1,anaerobic digestion (payback 8-15 years),anaerobic digestion payback benchmark
+WOS:001787013400012,payback_years,4.5,years,0,1,composting (payback 3-6 years),composting payback benchmark
+WOS:001787013400012,other,3.5,USD/kg protein,0,0,MSP $2.0-5.0/kg protein,Black Soldier Fly bioconversion minimum selling price
+WOS:001787013400012,other,275.0,USD/kg extract,0,0,MSP $50-500/kg extract,supercritical CO2 extraction minimum selling price
+WOS:001787013400012,irr_pct,18.3,%,0,1,IRR up to 18.3%,"supercritical CO2 extraction IRR, upper bound"
+WOS:000588911500001,roi_pct,75.0,%,0,1,accounting rate of return of 75%,"starch extraction from avocado seeds, accounting rate of return"
+WOS:000588911500001,other,82.0,%,0,0,break-even analysis of 82%,break-even analysis result
+WOS:000588911500001,payback_years,2.0,years,0,1,payback period of 2 years,starch extraction process payback period
+WOS:000610903400001,other,63.0,%,0,0,average cold gas efficiency was nearly 63%,"gasifier average cold gas efficiency, nearly 63%"
+WOS:000610903400001,payback_years,7.0,years,0,1,payback period ranges between 5-9 years,gasification CHP plant economic feasibility payback
+WOS:001041646200001,other,11.0,%,0,0,starch (with a yield of around 11 %),starch recovery yield from potato peel
+WOS:001041646200001,other,7.343,mgGAE/g,0,0,phenolic compounds (0.687-14.0 mgGAE/g),phenolic compounds recovery from potato peel
+WOS:001041646200001,other,2691.45,mg/kg,0,0,glycoalkaloids (40.9-5342 mg/kg),glycoalkaloids recovery from potato peel
+WOS:001041646200001,other,264.0,mL CH4/g VS,0,0,energy (218-310 mL CH4/g on a volatile solid basis),methane yield from potato peel anaerobic digestion
+WOS:001041646200001,irr_pct,10.0,%,0,1,internal return rates higher than 10 %,"biorefinery internal return rates, greater than 10%"
+WOS:001700636400001,other,40.32,EUR/kg,0,0,ranged from 0.04 to 80.60 &,PPA treatment conversion costs by mode and scale
+WOS:001700636400001,payback_years,1.0,years,0,1,estimated to be less than one year,return on PLexc2 investment under one year at 2000 t/yr
+WOS:000522492700113,energy_utility_reduction_pct,16.5,%,0,0,can make up 16%-17% of the total amount of thermal energy,"solar collectors energy-saving potential, share of regional thermal energy"
+WOS:000522492700113,other,5.2,RUB/kWh,0,0,3.8-6.6 rubles per kWh,levelized cost of energy from industrial solar collectors

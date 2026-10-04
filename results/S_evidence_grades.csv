@@ -1,0 +1,36 @@
+technology,channel,n,grade,Main rule (observed = econometric or case study),Observed = econometric only,Observed = E/C with full-text SMS level >= 2,Main search only (v1 corpus)
+Automation and robotics,Productivity,15,Strong,Strong,Moderate,Moderate,Moderate
+Automation and robotics,Quality and safety,2,Insufficient,Insufficient,Insufficient,Insufficient,Insufficient
+Automation and robotics,Resource efficiency,6,Limited,Limited,Limited,Limited,Limited
+Automation and robotics,Supply-chain coordination,2,Insufficient,Insufficient,Insufficient,Insufficient,Insufficient
+Automation and robotics,Revenue and financial performance,4,Limited,Limited,Limited,Limited,Insufficient
+"AI, sensors and IoT analytics",Productivity,18,Strong,Strong,Moderate,Strong,Moderate
+"AI, sensors and IoT analytics",Quality and safety,8,Strong,Strong,Limited,Moderate,Strong
+"AI, sensors and IoT analytics",Resource efficiency,35,Strong,Strong,Moderate,Strong,Strong
+"AI, sensors and IoT analytics",Supply-chain coordination,27,Moderate,Moderate,Moderate,Moderate,Moderate
+"AI, sensors and IoT analytics",Revenue and financial performance,21,Strong,Strong,Limited,Moderate,Strong
+Digital twins and simulation,Productivity,6,Moderate,Moderate,Moderate,Moderate,Moderate
+Digital twins and simulation,Quality and safety,2,Insufficient,Insufficient,Insufficient,Insufficient,Insufficient
+Digital twins and simulation,Resource efficiency,6,Moderate,Moderate,Moderate,Moderate,Moderate
+Digital twins and simulation,Supply-chain coordination,5,Moderate,Moderate,Moderate,Moderate,Moderate
+Digital twins and simulation,Revenue and financial performance,2,Insufficient,Insufficient,Insufficient,Insufficient,Insufficient
+Blockchain and digital traceability,Productivity,4,Limited,Limited,Limited,Limited,Limited
+Blockchain and digital traceability,Quality and safety,15,Moderate,Moderate,Limited,Moderate,Limited
+Blockchain and digital traceability,Resource efficiency,8,Moderate,Moderate,Moderate,Moderate,Limited
+Blockchain and digital traceability,Supply-chain coordination,42,Moderate,Moderate,Moderate,Moderate,Limited
+Blockchain and digital traceability,Revenue and financial performance,36,Moderate,Moderate,Limited,Moderate,Limited
+Firm-level digital transformation,Productivity,11,Strong,Strong,Moderate,Moderate,Moderate
+Firm-level digital transformation,Quality and safety,4,Limited,Limited,Limited,Limited,Limited
+Firm-level digital transformation,Resource efficiency,6,Limited,Limited,Limited,Limited,Insufficient
+Firm-level digital transformation,Supply-chain coordination,16,Moderate,Moderate,Limited,Moderate,Limited
+Firm-level digital transformation,Revenue and financial performance,21,Strong,Strong,Strong,Limited,Moderate
+Advanced processing,Productivity,14,Moderate,Moderate,Moderate,Moderate,Moderate
+Advanced processing,Quality and safety,2,Insufficient,Insufficient,Insufficient,Insufficient,Insufficient
+Advanced processing,Resource efficiency,33,Moderate,Moderate,Moderate,Moderate,Moderate
+Advanced processing,Supply-chain coordination,0,None,None,None,None,None
+Advanced processing,Revenue and financial performance,9,Moderate,Moderate,Moderate,Moderate,Moderate
+Circular valorisation,Productivity,5,Moderate,Moderate,Moderate,Limited,Limited
+Circular valorisation,Quality and safety,1,Insufficient,Insufficient,Insufficient,Insufficient,Insufficient
+Circular valorisation,Resource efficiency,80,Moderate,Moderate,Moderate,Moderate,Moderate
+Circular valorisation,Supply-chain coordination,10,Moderate,Moderate,Moderate,Moderate,Moderate
+Circular valorisation,Revenue and financial performance,71,Moderate,Moderate,Moderate,Moderate,Moderate

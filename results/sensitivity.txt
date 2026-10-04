@@ -1,0 +1,90 @@
+N = 309 included studies (main search 205, supplementary search 104)
+Designs (after full-text check): observed 45 (14.6 %); modelled 181 (58.6 %); perceived 50 (16.2 %); secondary 33 (10.7 %)
+Design changed after full-text check: 9 studies: C->TEA, C->TEA, C->TEA, C->TEA, C->TEA, C->X, C->TEA, C->TEA, C->TEA
+Full-text check: sought 144, accessed 112
+Observed studies: 45 (E 11, C 34); with SMS level: level : 9, level 1: 17, level 2: 17, level 3: 2
+
+TECHNOLOGY: n (%) [observed modelled perceived secondary] | main search n
+  Automation and robotics                   20 ( 6.5 %) [5 12 2 1] | main 13
+  AI, sensors and IoT analytics             56 (18.1 %) [13 20 18 5] | main 35
+  Digital twins and simulation              11 ( 3.6 %) [1 10 0 0] | main 9
+  Blockchain and digital traceability       55 (17.8 %) [9 30 14 2] | main 35
+  Firm-level digital transformation         31 (10.0 %) [9 3 16 3] | main 21
+  Advanced processing                       36 (11.7 %) [0 22 0 14] | main 18
+  Circular valorisation                     94 (30.4 %) [4 82 0 8] | main 72
+  Other (R&D and product innovation)         6 ( 1.9 %) [4 2 0 0] | main 2
+
+Main rule (observed = econometric or case study): Strong 7 [Automation and robotics x Productivity (n=15); AI, sensors and IoT analytics x Productivity (n=18); AI, sensors and IoT analytics x Quality and safety (n=8); AI, sensors and IoT analytics x Resource efficiency (n=35); AI, sensors and IoT analytics x Revenue and financial performance (n=21); Firm-level digital transformation x Productivity (n=11); Firm-level digital transformation x Revenue and financial performance (n=21)], Moderate 16, Limited 5
+Observed = econometric only: Strong 1 [Firm-level digital transformation x Revenue and financial performance (n=21)], Moderate 17, Limited 10
+Observed = E/C with full-text SMS level >= 2: Strong 2 [AI, sensors and IoT analytics x Productivity (n=18); AI, sensors and IoT analytics x Resource efficiency (n=35)], Moderate 19, Limited 7
+Main search only (v1 corpus): Strong 3 [AI, sensors and IoT analytics x Quality and safety (n=6); AI, sensors and IoT analytics x Resource efficiency (n=17); AI, sensors and IoT analytics x Revenue and financial performance (n=18)], Moderate 14, Limited 9
+
+EFFECT SIZES - Primary (abstract values, full-text corrections applied) (studies contributing: 104)
+  Energy/utility use reduction (%)     n=30  median 32.8  IQR 18.0-62.0  range 5.8-90.0  [modelled 21, observed 5]  by tech: T2:10 (5.8-81.4); T3:3 (23.0-62.0); T6:11 (11.2-72.2); T7:6 (22.5-90.0)
+  Cost reduction (%)                   n=31  median 30.0  IQR 12.9-58.2  range -31.3-98.7  [modelled 23, observed 3]  by tech: T1:1 (20.0-20.0); T2:6 (8.0-69.5); T3:3 (10.5-83.0); T4:3 (-31.3-28.0); T5:2 (18.0-31.2); T6:1 (53.0-53.0); T7:15 (1.0-98.7)
+  Waste/loss reduction (%)             n=16  median 37.1  IQR 16.0-52.5  range -3.0-92.9  [modelled 12, observed 1]  by tech: T1:2 (11.7-92.9); T2:5 (15.0-55.0); T3:1 (47.5-47.5); T4:2 (-3.0-85.0); T6:1 (40.0-40.0); T7:5 (7.4-60.0)
+  Process time reduction (%)           n=19  median 42.0  IQR 25.1-70.0  range 20.0-99.5  [modelled 11, observed 5]  by tech: T1:1 (24.1-24.1); T2:2 (25.0-77.0); T3:5 (24.4-63.0); T4:2 (36.2-41.2); T5:1 (99.5-99.5); T6:8 (20.0-90.0)
+  Throughput/productivity gain (%)     n=16  median 27.5  IQR 18.6-48.8  range 5.0-900.0  [modelled 11, observed 3]  by tech: T1:8 (12.5-900.0); T2:2 (13.0-22.0); T4:3 (5.0-42.1); T5:1 (25.0-25.0); T7:2 (30.0-98.8)
+  Yield/recovery gain (%)              n=10  median 33.2  IQR 10.7-94.6  range 3.1-1200.0  [modelled 8, observed 1]  by tech: T1:1 (33.3-33.3); T2:2 (3.1-12.0); T6:2 (5.0-33.0); T7:5 (10.7-1200.0)
+  Profit/revenue gain (%)              n= 8  median 21.0  IQR 12.8-165.8  range 11.0-334.6  [modelled 4, observed 1]  by tech: T2:3 (14.0-64.3); T4:1 (334.6-334.6); T5:1 (27.0-27.0); T7:3 (11.0-267.2)
+  Return on investment (%)             n= 9  median 43.9  IQR 20.4-102.5  range 13.5-785.2  [modelled 8, observed 1]  by tech: T4:1 (160.8-160.8); T7:8 (13.5-785.2)
+  Internal rate of return (%)          n=11  median 18.3  IQR 12.7-31.8  range 2.0-45.5  [modelled 9, observed 0]  by tech: T7:11 (2.0-45.5)
+  Payback period (years)               n=22  median 4.1  IQR 2.0-6.0  range 0.1-8.0  [modelled 20, observed 0]  by tech: T1:1 (0.3-0.3); T3:1 (0.1-0.1); T6:3 (1.0-5.0); T7:17 (0.7-8.0)
+
+EFFECT SIZES - Verified in full text only (confirmed or corrected) (studies contributing: 76)
+  Energy/utility use reduction (%)     n=24  median 32.8  IQR 17.8-56.0  range 5.8-90.0  [modelled 17, observed 5]
+  Cost reduction (%)                   n=21  median 31.2  IQR 18.1-69.8  range 1.0-98.7  [modelled 15, observed 3]
+  Waste/loss reduction (%)             n=10  median 43.0  IQR 15.0-55.0  range -3.0-92.9  [modelled 7, observed 1]
+  Process time reduction (%)           n=13  median 42.0  IQR 33.2-71.8  range 20.0-99.5  [modelled 9, observed 4]
+  Throughput/productivity gain (%)     n=11  median 37.5  IQR 22.5-88.0  range 12.5-900.0  [modelled 7, observed 2]
+  Yield/recovery gain (%)              n= 7  median 33.0  IQR 11.0-56.9  range 3.1-1200.0  [modelled 5, observed 1]
+  Profit/revenue gain (%)              n= 5  median 64.3  IQR 23.1-284.1  range 11.5-334.6  [modelled 2, observed 1]
+  Return on investment (%)             n= 5  median 83.0  IQR 61.8-316.9  range 22.2-785.2  [modelled 4, observed 1]
+  Internal rate of return (%)          n= 7  median 14.4  IQR 7.5-23.3  range 2.0-37.1  [modelled 5, observed 0]
+  Payback period (years)               n=13  median 2.3  IQR 0.9-5.9  range 0.1-8.0  [modelled 12, observed 0]
+
+EFFECT SIZES - Excluding best-case / scenario values (studies contributing: 78)
+  Energy/utility use reduction (%)     n=22  median 22.8  IQR 17.0-40.0  range 5.8-90.0  [modelled 15, observed 4]
+  Cost reduction (%)                   n=23  median 28.0  IQR 10.1-45.5  range -31.3-94.8  [modelled 17, observed 2]
+  Waste/loss reduction (%)             n=12  median 40.9  IQR 18.5-57.5  range 7.4-92.9  [modelled 8, observed 1]
+  Process time reduction (%)           n=15  median 37.0  IQR 24.1-59.5  range 10.0-99.5  [modelled 9, observed 5]
+  Throughput/productivity gain (%)     n= 9  median 22.0  IQR 20.0-45.4  range 13.0-900.0  [modelled 6, observed 2]
+  Yield/recovery gain (%)              n= 8  median 22.7  IQR 7.8-100.0  range 3.1-1200.0  [modelled 6, observed 1]
+  Profit/revenue gain (%)              n= 6  median 21.0  IQR 14.0-64.3  range 11.5-267.2  [modelled 2, observed 1]
+  Return on investment (%)             n= 8  median 59.4  IQR 30.4-121.9  range 13.5-785.2  [modelled 7, observed 1]
+  Internal rate of return (%)          n= 6  median 29.5  IQR 23.8-37.1  range 5.7-45.5  [modelled 6, observed 0]
+  Payback period (years)               n=17  median 4.0  IQR 2.0-5.3  range 0.1-8.0  [modelled 15, observed 0]
+
+EFFECT SIZES - Main search only (studies contributing: 65)
+  Energy/utility use reduction (%)     n=14  median 39.4  IQR 25.0-65.5  range 13.5-72.2  [modelled 11, observed 0]
+  Cost reduction (%)                   n=20  median 35.0  IQR 14.2-64.8  range 1.0-90.0  [modelled 15, observed 2]
+  Waste/loss reduction (%)             n= 8  median 48.8  IQR 24.6-57.5  range 7.4-92.9  [modelled 6, observed 0]
+  Process time reduction (%)           n= 9  median 49.0  IQR 40.8-70.0  range 24.4-83.3  [modelled 8, observed 0]
+  Throughput/productivity gain (%)     n= 8  median 42.7  IQR 23.3-156.9  range 13.0-900.0  [modelled 5, observed 1]
+  Yield/recovery gain (%)              n= 9  median 33.0  IQR 9.3-72.3  range 3.1-1200.0  [modelled 7, observed 1]
+  Profit/revenue gain (%)              n= 6  median 39.2  IQR 11.5-267.2  range 11.0-334.6  [modelled 4, observed 1]
+  Return on investment (%)             n= 8  median 41.9  IQR 18.5-79.0  range 13.5-785.2  [modelled 8, observed 0]
+  Internal rate of return (%)          n= 9  median 25.0  IQR 11.0-34.8  range 2.0-45.5  [modelled 7, observed 0]
+  Payback period (years)               n=20  median 4.2  IQR 2.0-6.0  range 0.1-8.0  [modelled 18, observed 0]
+
+EFFECT SIZES - Abstract values without full-text corrections (v1 method) (studies contributing: 104)
+  Energy/utility use reduction (%)     n=30  median 36.2  IQR 18.5-62.0  range 6.9-92.5  [modelled 21, observed 5]
+  Cost reduction (%)                   n=31  median 30.0  IQR 12.9-58.2  range -31.3-98.7  [modelled 23, observed 3]
+  Waste/loss reduction (%)             n=16  median 37.1  IQR 16.0-52.5  range 3.0-92.9  [modelled 12, observed 1]
+  Process time reduction (%)           n=19  median 42.0  IQR 25.1-70.0  range 20.0-99.5  [modelled 11, observed 5]
+  Throughput/productivity gain (%)     n=16  median 27.5  IQR 18.6-48.8  range 5.0-900.0  [modelled 11, observed 3]
+  Yield/recovery gain (%)              n=10  median 33.2  IQR 10.7-94.6  range 3.1-1400.0  [modelled 8, observed 1]
+  Profit/revenue gain (%)              n= 8  median 21.0  IQR 12.8-49.0  range 11.0-267.2  [modelled 4, observed 1]
+  Return on investment (%)             n= 9  median 43.9  IQR 20.4-102.5  range 13.5-785.2  [modelled 8, observed 1]
+  Internal rate of return (%)          n=11  median 18.3  IQR 10.7-31.8  range 2.0-45.5  [modelled 9, observed 0]
+  Payback period (years)               n=22  median 4.1  IQR 2.0-6.0  range 0.2-8.0  [modelled 20, observed 0]
+
+Quantified studies: 135; contributing to summary metrics: 104; quantified but only non-summarised metrics (e.g. absolute values, efficiency scores, coefficients): 31
+Full-text status of summary effects: confirmed 125, not_accessed 53, corrected 17, not_found 12
+
+CONDITIONS recorded in 228 studies: investment and operating cost 54; scale and firm size 40; prices, demand and market access 32; data and system integration 30; policy and subsidies 16; skills and workforce 26
+
+REGION: setting in Central/South-East Europe 12 studies (Azerbaijan, Ukraine, Bulgaria, Greece, Latvia, Poland, Ukraine); at least one author affiliated in the region 32; setting not stated in abstract 146
+Records excluded by the indexing criterion: 72; with at least one author in Central/South-East Europe: 2 (RO, UA)
+
+Sampled exclusions re-assessed in the second pass: 400, flagged as relevant: 0; rule-of-three upper 95 % bound of the miss rate 0.75 % (about 25 of 3337 records excluded on abstract)

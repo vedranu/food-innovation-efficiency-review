@@ -1,0 +1,47 @@
+N = 309 included studies (main search 205, supplementary search 104)
+Source: OpenAlex and Scopus 118, Scopus only 85, OpenAlex (Scopus-indexed) 87, Web of Science only 18, OpenAlex (WoS-indexed) 1
+Years: 2015-2020 42; 2021-2023 80; 2024-2026 187; median 2024
+Agreement between screening passes, main search (n=476): 93.9 %, kappa = 0.877; all double-assessed records (n=808): 93.7 %, kappa = 0.874
+
+TECHNOLOGY (n, %) and design [observed modelled perceived secondary]
+  Automation and robotics                   20 ( 6.5 %)  [5 12 2 1]
+  AI, sensors and IoT analytics             56 (18.1 %)  [13 20 18 5]
+  Digital twins and simulation              11 ( 3.6 %)  [1 10 0 0]
+  Blockchain and digital traceability       55 (17.8 %)  [9 30 14 2]
+  Firm-level digital transformation         31 (10.0 %)  [9 3 16 3]
+  Advanced processing                       36 (11.7 %)  [0 22 0 14]
+  Circular valorisation                     94 (30.4 %)  [4 82 0 8]
+  Other: 6
+  Design totals: observed 45 (14.6 %), modelled 181 (58.6 %), perceived 50 (16.2 %), secondary 33 (10.7 %)
+  Quantified effect in abstract: 135 (43.7 %); positive direction: 247 (79.9 %), mixed 44, negative 5
+
+EVIDENCE MAP (n studies; grade)
+  Automation and robotics                  15 Strong        2 Insufficient  6 Limited       2 Insufficient  4 Limited     
+  AI, sensors and IoT analytics            18 Strong        8 Strong       35 Strong       27 Moderate     21 Strong      
+  Digital twins and simulation              6 Moderate      2 Insufficient  6 Moderate      5 Moderate      2 Insufficient
+  Blockchain and digital traceability       4 Limited      15 Moderate      8 Moderate     42 Moderate     36 Moderate    
+  Firm-level digital transformation        11 Strong        4 Limited       6 Limited      16 Moderate     21 Strong      
+  Advanced processing                      14 Moderate      2 Insufficient 33 Moderate      0 None          9 Moderate    
+  Circular valorisation                     5 Moderate      1 Insufficient 80 Moderate     10 Moderate     71 Moderate    
+  Channel totals (studies may address several channels): Productivity 76 (24.6 %); Quality and safety 34 (11.0 %); Resource efficiency 176 (57.0 %); Supply-chain coordination 102 (33.0 %); Revenue and financial performance 167 (54.0 %);
+
+CHANNEL SUMMARY
+  Productivity                       n= 76 | observed 23, modelled 30, perceived 10, secondary 13 | quantified 41 | positive 95 %
+  Quality and safety                 n= 34 | observed  9, modelled 13, perceived  8, secondary  4 | quantified 14 | positive 82 %
+  Resource efficiency                n=176 | observed 18, modelled 123, perceived  9, secondary 26 | quantified 97 | positive 78 %
+  Supply-chain coordination          n=102 | observed 14, modelled 50, perceived 31, secondary  7 | quantified 28 | positive 83 %
+  Revenue and financial performance  n=167 | observed 18, modelled 105, perceived 34, secondary 10 | quantified 65 | positive 75 %
+
+EFFECT SIZES (study-level medians)
+  Energy/utility use reduction (%)     n=30  median 32.8  IQR 18.0-62.0  range 5.8-90.0
+  Cost reduction (%)                   n=31  median 30.0  IQR 12.9-58.2  range -31.3-98.7
+  Waste/loss reduction (%)             n=16  median 37.1  IQR 16.0-52.5  range -3.0-92.9
+  Process time reduction (%)           n=19  median 42.0  IQR 25.1-70.0  range 20.0-99.5
+  Throughput/productivity gain (%)     n=16  median 27.5  IQR 18.6-48.8  range 5.0-900.0
+  Yield/recovery gain (%)              n=10  median 33.2  IQR 10.7-94.6  range 3.1-1200.0
+  Profit/revenue gain (%)              n= 8  median 21.0  IQR 12.8-165.8  range 11.0-334.6
+  Return on investment (%)             n= 9  median 43.9  IQR 20.4-102.5  range 13.5-785.2
+  Internal rate of return (%)          n=11  median 18.3  IQR 12.6-31.8  range 2.0-45.5
+  Payback period (years)               n=22  median 4.1  IQR 2.0-6.0  range 0.1-8.0
+
+Negative/mixed findings: 49 studies; examples listed in results\T_negative_mixed.csv

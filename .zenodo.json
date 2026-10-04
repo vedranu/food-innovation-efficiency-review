@@ -1,0 +1,39 @@
+{
+  "upload_type": "dataset",
+  "title": "Replication package for: Technological innovation and economic efficiency in food processing and supply chains: a structured review of mechanisms and evidence strength",
+  "description": "<p>Search strings, screening and coding protocol, screening log of 4,503 records, coded data set of 309 included studies, extracted effect values with full-text verification status, human validation of the LLM-assisted screening and coding, and MATLAB and Python scripts that reproduce all results and figures of the structured review. Abstracts are not included because database licences do not allow their redistribution.</p>",
+  "creators": [
+    {
+      "name": "Nanjara, Ljiljana",
+      "affiliation": "University of Applied Sciences Marko Marulić in Knin",
+      "orcid": "0000-0003-1289-8447"
+    },
+    {
+      "name": "Uroš, Vedran",
+      "affiliation": "University of Zagreb, Faculty of Organization and Informatics; University of Applied Sciences Marko Marulić in Knin",
+      "orcid": "0009-0007-6568-0827"
+    },
+    {
+      "name": "Friganović, Emilija",
+      "affiliation": "University of Applied Sciences Marko Marulić in Knin",
+      "orcid": "0000-0001-6871-6716"
+    },
+    {
+      "name": "Mihanović, Damir",
+      "affiliation": "University of Applied Sciences Marko Marulić in Knin",
+      "orcid": "0009-0004-8281-0345"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "food industry",
+    "technological innovation",
+    "economic efficiency",
+    "structured review",
+    "evidence map",
+    "PRISMA",
+    "replication package"
+  ],
+  "language": "eng",
+  "access_right": "open"
+}

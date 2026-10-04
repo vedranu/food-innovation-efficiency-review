@@ -1,0 +1,36 @@
+technology,channel,n,observed,observed_quantified,modelled_quantified,positive,grade
+"Automation and robotics",Productivity,15,5,3,6,14,Strong
+"Automation and robotics",Quality and safety,2,1,1,1,2,Insufficient
+"Automation and robotics",Resource efficiency,6,0,0,2,5,Limited
+"Automation and robotics",Supply-chain coordination,2,0,0,1,1,Insufficient
+"Automation and robotics",Revenue and financial performance,4,0,0,1,3,Limited
+"AI, sensors and IoT analytics",Productivity,18,6,3,3,18,Strong
+"AI, sensors and IoT analytics",Quality and safety,8,3,2,2,8,Strong
+"AI, sensors and IoT analytics",Resource efficiency,35,11,8,9,33,Strong
+"AI, sensors and IoT analytics",Supply-chain coordination,27,2,1,5,25,Moderate
+"AI, sensors and IoT analytics",Revenue and financial performance,21,4,2,2,21,Strong
+"Digital twins and simulation",Productivity,6,1,0,5,6,Moderate
+"Digital twins and simulation",Quality and safety,2,0,0,1,2,Insufficient
+"Digital twins and simulation",Resource efficiency,6,0,0,4,6,Moderate
+"Digital twins and simulation",Supply-chain coordination,5,0,0,3,5,Moderate
+"Digital twins and simulation",Revenue and financial performance,2,0,0,2,2,Insufficient
+"Blockchain and digital traceability",Productivity,4,0,0,1,4,Limited
+"Blockchain and digital traceability",Quality and safety,15,4,1,0,11,Moderate
+"Blockchain and digital traceability",Resource efficiency,8,1,0,3,5,Moderate
+"Blockchain and digital traceability",Supply-chain coordination,42,9,2,6,32,Moderate
+"Blockchain and digital traceability",Revenue and financial performance,36,4,1,2,24,Moderate
+"Firm-level digital transformation",Productivity,11,7,2,0,11,Strong
+"Firm-level digital transformation",Quality and safety,4,1,0,0,3,Limited
+"Firm-level digital transformation",Resource efficiency,6,2,0,0,5,Limited
+"Firm-level digital transformation",Supply-chain coordination,16,3,1,0,14,Moderate
+"Firm-level digital transformation",Revenue and financial performance,21,6,2,0,19,Strong
+"Advanced processing",Productivity,14,0,0,8,13,Moderate
+"Advanced processing",Quality and safety,2,0,0,2,2,Insufficient
+"Advanced processing",Resource efficiency,33,0,0,13,23,Moderate
+"Advanced processing",Supply-chain coordination,0,0,0,0,0,None
+"Advanced processing",Revenue and financial performance,9,0,0,4,6,Moderate
+"Circular valorisation",Productivity,5,1,1,1,4,Moderate
+"Circular valorisation",Quality and safety,1,0,0,1,0,Insufficient
+"Circular valorisation",Resource efficiency,80,4,2,44,61,Moderate
+"Circular valorisation",Supply-chain coordination,10,0,0,5,8,Moderate
+"Circular valorisation",Revenue and financial performance,71,3,2,37,51,Moderate

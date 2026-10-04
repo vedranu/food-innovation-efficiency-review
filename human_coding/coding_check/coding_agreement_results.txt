@@ -1,0 +1,10 @@
+Design sheet: 38 studies (excluded from the review afterwards: 1)
+design A vs B: agreement 84.2 %, kappa 0.669
+design A vs LLM: agreement 84.2 %, kappa 0.632
+design B vs LLM: agreement 92.1 %, kappa 0.784
+Maryland A vs B (n = 31): exact agreement 83.9 %, within one level 100.0 %, kappa 0.715
+Maryland A vs LLM (n = 32): exact agreement 90.6 %, within one level 100.0 %, kappa 0.832
+Maryland B vs LLM (n = 35): exact agreement 88.6 %, within one level 100.0 %, kappa 0.798
+values coder A: metric correct 90.0 %, value correct 95.0 % (n = 20)
+values coder B: metric correct 95.0 %, value correct 95.0 % (n = 20)
+values judged fully correct by both coders: 16 of 20

@@ -1,0 +1,11 @@
+metric,n_studies,median,q1,q3,min,max
+Energy/utility use reduction (%),30,32.75,18,62,5.77,90
+Cost reduction (%),31,30,12.95,58.25,-31.285,98.69
+Waste/loss reduction (%),16,37.1,16,52.5,-3,92.86
+Process time reduction (%),19,42,25.125,70,20,99.5
+Throughput/productivity gain (%),16,27.5,18.55,48.75,5,900
+Yield/recovery gain (%),10,33.165,10.7,94.61,3.15,1200
+Profit/revenue gain (%),8,20.99,12.75,165.7725,11,334.6
+Return on investment (%),9,43.88,20.3525,102.45,13.5,785.23
+Internal rate of return (%),11,18.3,12.65,31.75,2,45.54
+Payback period (years),22,4.0525,2,6,0.12,8

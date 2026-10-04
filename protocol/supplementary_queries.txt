@@ -1,0 +1,10 @@
+Supplementary search (3 October 2026). Blocks <A>, <B>, <C> as in the main queries; <F> = ("data envelopment analysis" OR "stochastic frontier" OR "frontier analysis" OR "technical efficiency" OR malmquist)
+OpenAlex (title_and_abstract.search; publication_year:2015-2026, type:article|review, language:en)
+  S1: <A> AND <B> AND (efficiency) NOT <C>   1,845 records
+  S2: <A> AND <F>   211 records
+Scopus
+  S1: (TITLE-ABS-KEY(<A> AND <B> AND efficiency) AND NOT TITLE-ABS-KEY(<C>)) AND PUBYEAR > 2014 AND PUBYEAR < 2027 AND DOCTYPE(ar OR re) AND LANGUAGE(english)   1,718 records
+  S2: TITLE-ABS-KEY(<A> AND <F>) AND PUBYEAR > 2014 AND PUBYEAR < 2027 AND DOCTYPE(ar OR re) AND LANGUAGE(english)   206 records
+Web of Science Core Collection
+  S1: TS=(<A> AND <B> AND efficiency) NOT TS=(<C>) AND PY=(2015-2026) AND DT=(Article OR Review) AND LA=(English)   1,350 records
+  S2: TS=(<A> AND <F>) AND PY=(2015-2026) AND DT=(Article OR Review) AND LA=(English)   176 records

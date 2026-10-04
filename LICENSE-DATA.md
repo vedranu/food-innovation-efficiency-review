@@ -1,0 +1,1 @@
+The data, figures and documentation in this repository (everything except the scripts in `matlab/`, `python/` and the `*.py` files in `human_coding/`) are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
