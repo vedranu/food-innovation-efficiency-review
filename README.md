@@ -1,5 +1,7 @@
 # Technological innovation and economic efficiency in food processing and supply chains
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23145835.svg)](https://doi.org/10.5281/zenodo.23145835)
+
 Replication package for the structured review *Technological innovation and economic efficiency in food processing and supply chains: a structured review of mechanisms and evidence strength* (manuscript submitted to *Agroekonomika*).
 
 **Authors:** Ljiljana Nanjara, Vedran Uroš, Emilija Friganović, Damir Mihanović
@@ -46,4 +48,6 @@ Data and documentation: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 
 ## Citation
 
-Please cite the archived version on Zenodo (DOI badge above, added after the first release) and the paper once published.
+Nanjara, L., Uroš, V., Friganović, E., Mihanović, D. (2026). Replication package for: Technological innovation and economic efficiency in food processing and supply chains: a structured review of mechanisms and evidence strength (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23145835
+
+The concept DOI https://doi.org/10.5281/zenodo.23145834 always resolves to the latest version. Please also cite the paper once published.
